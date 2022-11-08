@@ -19,8 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:text="@string/increment"
-
+            android:text="increment"
             android:id="@+id/inc"
             tools:ignore="UsingOnClickInXml" />
         <Button
@@ -28,7 +27,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/decrement"
-            android:onClick="decOne"
 
             android:id="@+id/dec"
             tools:ignore="UsingOnClickInXml" />
@@ -60,7 +58,7 @@
                   android:layout_width="match_parent"
                   android:layout_height="wrap_content"
                   android:text="Reset"
-                  android:onClick="reset"
+
                   android:id="@+id/reset"
                   tools:ignore="HardcodedText,UsingOnClickInXml" />
 

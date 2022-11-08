@@ -2,5 +2,7 @@
     <string name="app_name">My Application</string>
     <string name="increment">Increment</string>
     <string name="decrement">Decrement</string>
-    <string name="_0">1</string>
+    <string name="_0">5</string>
 </resources>
+
+
